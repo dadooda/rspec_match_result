@@ -1,6 +1,4 @@
 
-puts "-- $:#{$:.inspect}"
-
 require "rspec/match_result"
 
 describe "#match_result" do
